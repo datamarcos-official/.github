@@ -11,7 +11,6 @@ This GitHub organisation is for **free learning material**. You do not need to j
 - [fde-roadmap](https://github.com/datamarcos-official/fde-roadmap) — a self-study roadmap for forward deployed AI engineers, with a week-by-week plan and a reading list of primary sources.
 - [agentic-ai-projects](https://github.com/datamarcos-official/agentic-ai-projects) — beginner-to-advanced project ideas, including a small offline RAG example you can run with the Python standard library.
 
-> The organisation slug `datamarcos-official` is the recommended name if it is still available when you create the org. Update these links if you choose `datamarcos-official` or `DatamarcosHQ` instead.
 
 ## Free guides
 
@@ -38,5 +37,5 @@ We do not accept spam, purchased engagement, or pull requests whose only purpose
 ## Contact
 
 - Website: [www.datamarcos.com](https://www.datamarcos.com)
-- Email: [hello@datamarcos.com](mailto:hello@datamarcos.com)
+- Email: [deepesh.datamarcos@gmail.com](mailto:deepesh.datamarcos@gmail.com)
 - Noida, India
